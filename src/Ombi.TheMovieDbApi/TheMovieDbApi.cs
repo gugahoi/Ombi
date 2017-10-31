@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using AutoMapper;
 using Ombi.Api.TheMovieDb.Models;
 using Ombi.Helpers;
-using Ombi.TheMovieDbApi.Models;
+using Ombi.Api.TheMovieDb.Models;
 
 namespace Ombi.Api.TheMovieDb
 {

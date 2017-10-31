@@ -31,7 +31,7 @@
     <ProjectReference Include="..\Ombi.Schedule\Ombi.Schedule.csproj" />
     <ProjectReference Include="..\Ombi.Settings\Ombi.Settings.csproj" />
     <ProjectReference Include="..\Ombi.Store\Ombi.Store.csproj" />
-    <ProjectReference Include="..\Ombi.TheMovieDbApi\Ombi.Api.TheMovieDb.csproj" />
+    <ProjectReference Include="..\Ombi.Api.TheMovieDb\Ombi.Api.TheMovieDb.csproj" />
   </ItemGroup>
 
 </Project>

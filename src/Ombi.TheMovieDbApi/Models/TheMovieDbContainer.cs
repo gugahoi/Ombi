@@ -27,7 +27,7 @@
 
 using System.Collections.Generic;
 
-namespace Ombi.TheMovieDbApi.Models
+namespace Ombi.Api.TheMovieDb.Models
 {
     public class TheMovieDbContainer<T>
     {

@@ -24,7 +24,7 @@
 //    WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 //  ************************************************************************/
 #endregion
-namespace Ombi.TheMovieDbApi.Models
+namespace Ombi.Api.TheMovieDb.Models
 {
     public class SearchResult
     {

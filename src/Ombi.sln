@@ -16,7 +16,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ombi.Core", "Ombi.Core\Ombi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{9293CA11-360A-4C20-A674-B9E794431BF5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ombi.Api.TheMovieDb", "Ombi.TheMovieDbApi\Ombi.Api.TheMovieDb.csproj", "{132DA282-5894-4570-8916-D8C18ED2CE84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ombi.Api.TheMovieDb", "Ombi.Api.TheMovieDb\Ombi.Api.TheMovieDb.csproj", "{132DA282-5894-4570-8916-D8C18ED2CE84}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ombi.Api", "Ombi.Api\Ombi.Api.csproj", "{EA31F915-31F9-4318-B521-1500CDF40DDF}"
 EndProject

@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Ombi.Api.TheMovieDb.Models;
 using Ombi.Core.Models.Search;
-using Ombi.TheMovieDbApi.Models;
+using Ombi.Api.TheMovieDb.Models;
 
 namespace Ombi.Mapping.Profiles
 {

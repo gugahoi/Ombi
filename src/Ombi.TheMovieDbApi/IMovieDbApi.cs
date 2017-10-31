@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using Ombi.Api.TheMovieDb.Models;
-using Ombi.TheMovieDbApi.Models;
+using Ombi.Api.TheMovieDb.Models;
 
 namespace Ombi.Api.TheMovieDb
 {

@@ -1,4 +1,4 @@
-﻿namespace Ombi.TheMovieDbApi.Models
+﻿namespace Ombi.Api.TheMovieDb.Models
 {
     public class SpokenLanguages
     {
